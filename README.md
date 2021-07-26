@@ -46,18 +46,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 ![hw](Images/hw02.png)
-
-## Advanced Challenge Assignment (Optional)
-
-The following task is advanced and therefore optional.
-
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-* Update the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
+![Screen Shot 2021-07-26 at 3 12 08 PM](https://user-images.githubusercontent.com/76749991/127045363-8ae53e6e-3c49-4cd6-9835-0986b9070cf4.png)
+![Screen Shot 2021-07-26 at 3 12 15 PM](https://user-images.githubusercontent.com/76749991/127045367-acfc8236-f338-4053-952d-0ce34e58ef6d.png)
 
 ## Deployment
 
