@@ -1,3 +1,5 @@
+![Screen Shot 2021-07-26 at 3 12 08 PM](https://user-images.githubusercontent.com/76749991/127045436-e52e29e1-3fd2-435e-8a47-1704d5594e91.png)
+![Screen Shot 2021-07-26 at 3 12 15 PM](https://user-images.githubusercontent.com/76749991/127045438-5134c8e1-8d4d-41e1-9162-fb8323efda1b.png)
 # plotly-challenge-
 # Plot.ly Homework - Belly Button Biodiversity
 
@@ -46,8 +48,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 ![hw](Images/hw02.png)
-![Screen Shot 2021-07-26 at 3 12 08 PM](https://user-images.githubusercontent.com/76749991/127045363-8ae53e6e-3c49-4cd6-9835-0986b9070cf4.png)
-![Screen Shot 2021-07-26 at 3 12 15 PM](https://user-images.githubusercontent.com/76749991/127045367-acfc8236-f338-4053-952d-0ce34e58ef6d.png)
 
 ## Deployment
 
